@@ -1,0 +1,4 @@
+João da Silva;8;7;9
+Larissa Souza;10;9;10
+Mario Oliveira;5;4;5
+Pedro Carvalho;3;0;1
